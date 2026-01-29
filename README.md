@@ -1,6 +1,4 @@
 <h3 align="center">A Student of Professional School of Aveiro</h3>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopeccanha18&show_icons=true&locale=en" alt="joaopeccanha18" /></p>
 <h3 align="left">My social media</h3>
 <p align="left">
 <a href="https://instagram.com/jmwbrs7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jmwbrs7" height="30" width="40" /></a>
