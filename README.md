@@ -1,13 +1,5 @@
 <h3 align="center">A Student of Professional School of Aveiro</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaopeccanha18" alt="joaopeccanha18" /></a> </p>
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopeccanha18&show_icons=true&locale=en&layout=compact" alt="joaopeccanha18" /></p>
-
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopeccanha18&show_icons=true&locale=en" alt="joaopeccanha18" /></p>
 <h3 align="left">My social media</h3>
 <p align="left">
