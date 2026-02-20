@@ -6,22 +6,21 @@
 
 ---
 
-### 🚀 Projetos Recentes
-
+### 🚀 Recents Projects
 <p align="center">
   <a href="https://github.com/joaopeccanha18/PHP-LOGIN-SYSTEM">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaopeccanha18&repo=PHP-LOGIN-SYSTEM&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopeccanha18&repo=PHP-LOGIN-SYSTEM&theme=tokyonight" alt="Login System" />
   </a>
   <a href="https://github.com/joaopeccanha18/Portfolio">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaopeccanha18&repo=Portfolio&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopeccanha18&repo=Portfolio&theme=tokyonight" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-### 📊 Estatísticas de Linguagens
+### 👨‍💻 Top Languages
 <p align="center">
-  <img width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopeccanha18&layout=donut&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopeccanha18&layout=donut-vertical&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
