@@ -8,11 +8,11 @@
 
 ### 🚀 Recents Projects
 <p align="center">
-  <a href="https://github.com/joaopeccanha18/PHP-LOGIN-SYSTEM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopeccanha18&repo=PHP-LOGIN-SYSTEM&theme=tokyonight" alt="Login System" />
+  <a href="https://github.com/joaopeccanha18/PlantEyeAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopeccanha18&repo=PlantEyeAI" alt="Login System" />
   </a>
-  <a href="https://github.com/joaopeccanha18/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopeccanha18&repo=Portfolio&theme=tokyonight" alt="Portfolio" />
+  <a href="https://github.com/joaopeccanha18/AdvogadoAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopeccanha18&repo=AdvogadoAI&theme=tokyonight" alt="Portfolio" />
   </a>
 </p>
 
