@@ -7,14 +7,12 @@
 ---
 
 ### 🚀 Recents Projects
-
 <p align="center">
   <a href="https://github.com/joaopeccanha18/PlantEyeAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopeccanha18&repo=PlantEyeAI&theme=tokyonight&show_owner=true" width="400" alt="PlantEyeAI" />
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=joaopeccanha18&repo=PlantEyeAI&theme=tokyonight" />
   </a>
-  <br><br>
   <a href="https://github.com/joaopeccanha18/AdvogadoAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopeccanha18&repo=AdvogadoAI&theme=tokyonight&show_owner=true" width="400" alt="AdvogadoAI" />
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=joaopeccanha18&repo=AdvogadoAI&theme=tokyonight" />
   </a>
 </p>
 
@@ -22,7 +20,7 @@
 
 ### 📊 Top Languages
 <p align="center">
-  <img src="https://github-lang-deploy.vercel.app/api?username=joaopeccanha18&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img width="400rem" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaopeccanha18&layout=donut&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -36,9 +34,7 @@
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
