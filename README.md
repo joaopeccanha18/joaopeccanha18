@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/joaopeccanha18/PlantEyeAI">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaopeccanha18&repo=PlantEyeAI&theme=tokyonight" alt="PlantEyeAI" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaopeccanha18&repo=PlantEyeAI&theme=tokyonight&cache=1" alt="PlantEyeAI" />
   </a>
   <a href="https://github.com/joaopeccanha18/AdvogadoAI">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaopeccanha18&repo=AdvogadoAI&theme=tokyonight" alt="AdvogadoAI" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaopeccanha18&repo=AdvogadoAI&theme=tokyonight&cache=1" alt="AdvogadoAI" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 ### 📊 Linguagens mais utilizadas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopeccanha18&layout=donut&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopeccanha18&layout=donut&theme=tokyonight&hide_border=true&cache=1" alt="Top Langs" />
 </p>
 
 ---
