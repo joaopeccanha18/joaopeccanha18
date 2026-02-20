@@ -6,21 +6,22 @@
 
 ---
 
-### 🚀 Recents Projects
+### 🚀 Projetos Recentes
+
 <p align="center">
   <a href="https://github.com/joaopeccanha18/PlantEyeAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopeccanha18&repo=PlantEyeAI" alt="Login System" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaopeccanha18&repo=PlantEyeAI&theme=tokyonight" alt="PlantEyeAI" />
   </a>
   <a href="https://github.com/joaopeccanha18/AdvogadoAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopeccanha18&repo=AdvogadoAI&theme=tokyonight" alt="Portfolio" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaopeccanha18&repo=AdvogadoAI&theme=tokyonight" alt="AdvogadoAI" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 Top Languages
+### 📊 Linguagens mais utilizadas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopeccanha18&layout=donut-vertical&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopeccanha18&layout=donut&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
