@@ -8,6 +8,8 @@
 
 ### 🚀 Recents Projects
 <p align="center">
+    <a href="https://github.com/joaopeccanha18/FivemModForDiscord">
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=joaopeccanha18&repo=FivemModForDiscord&theme=tokyonight" />
   <a href="https://github.com/joaopeccanha18/PlantEyeAI">
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=joaopeccanha18&repo=PlantEyeAI&theme=tokyonight" />
   </a>
