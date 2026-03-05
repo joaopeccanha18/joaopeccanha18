@@ -15,6 +15,8 @@
   </a>
   <a href="https://github.com/joaopeccanha18/AdvogadoAI">
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=joaopeccanha18&repo=AdvogadoAI&theme=tokyonight" />
+     <a href="https://github.com/joaopeccanha18/LegalTranscriber">
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=joaopeccanha18&repo=LegalTranscriber&theme=tokyonight" />
   </a>
 </p>
 
