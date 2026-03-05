@@ -1,4 +1,4 @@
-<p align="center">
+.<p align="center">
   <img src="https://komarev.com/ghpvc/?username=joaopeccanha18&color=blue&style=flat-square" alt="Profile views" />
 </p>
 
