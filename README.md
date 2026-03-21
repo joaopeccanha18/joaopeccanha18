@@ -28,6 +28,7 @@
 </p>
 
 ---
+<div align="center">
 
 #### **Linguagens de Programação**
 <p>
@@ -61,3 +62,4 @@
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
 </p>
+</div>
