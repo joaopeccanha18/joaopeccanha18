@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=joaopeccanha18&color=blue&style=flat-square" alt="Profile views" />
 </p>
 
-<h3 align="center">A Student of Professional School of Aveiro</h3>
+<h3 align="center">Full Stack Developer | Student at Professional School of Aveiro.</h3>
 
 ---
 
